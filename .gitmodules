@@ -1,0 +1,6 @@
+[submodule "facebak"]
+	path = facebak
+	url = git@github.com:fanambynana/facebak.git
+[submodule "facebak-api"]
+	path = facebak-api
+	url = git@github.com:fanambynana/facebak-api.git
