@@ -11,7 +11,7 @@ participate in social networking.
 Note :
 Run this command after clone to get the submodules files (frontend and api) :
 ```
-git submodule update [submodule folder name]
+git submodule update --init [submodule folder name]
 ```
 
 ###### *Copyright 2023 - Coders*
