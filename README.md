@@ -8,4 +8,10 @@ participate in social networking.
 - Andinirina
 - Fanambinantsoa
 
+Note :
+Run this command after clone to get the submodules files (frontend and api) :
+```
+git submodule update [submodule folder name]
+```
+
 ###### *Copyright 2023 - Coders*
